@@ -1,0 +1,6 @@
+streamlit
+chromadb
+pypdf
+groq
+python-dotenv
+pysqlite3-binary; sys_platform == "linux"
